@@ -1,6 +1,10 @@
 Start Android simulator
 =======================
 
+### Install Android Studio
+
+https://developer.android.com/studio/index.html
+
 `cd /Users/macbook/Library/Android/sdk/tools/bin`
 
 ### Install required files
