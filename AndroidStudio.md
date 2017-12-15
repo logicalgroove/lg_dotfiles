@@ -30,6 +30,14 @@ cd ..
 ./emulator -avd test
 ```
 
+### List cameras available
+
+`./emulator -webcam-list -avd test`
+
+### Start emulatoe with that camera as back camera
+
+`./emulator -camera-back webcam0 -avd test`
+
 ### Enable keyboard and camera
 
 `vim ~/.android/avd/test.avd/config.ini`
